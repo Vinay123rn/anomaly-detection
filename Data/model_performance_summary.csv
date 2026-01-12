@@ -1,0 +1,5 @@
+Target,Accuracy,F1_Score,Top_Feature
+cooler_condition,0.96,0.96,spectral_energy
+valve_condition,0.587,0.599,skew
+pump_leakage,0.709,0.716,energy
+accumulator_pressure,0.719,0.723,spectral_entropy

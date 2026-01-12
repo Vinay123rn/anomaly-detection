@@ -1,0 +1,6 @@
+Target,Accuracy,F1_Score,Model_File
+cooler_condition,0.96,0.96,Data/random_forest_cooler_condition.pkl
+valve_condition,0.587,0.599,Data/random_forest_valve_condition.pkl
+pump_leakage,0.709,0.716,Data/random_forest_pump_leakage.pkl
+accumulator_pressure,0.719,0.723,Data/random_forest_accumulator_pressure.pkl
+anomaly,0.991,0.992,Data/random_forest_anomaly.pkl
